@@ -1,6 +1,7 @@
 # corners
 
 A very customizable [SDDM](https://github.com/sddm/sddm) theme that places controls on your screen corners.
+Customized to work with my nixos setup
 
 <img src="docs/glacier.png" width="45%"></img>
 <img src="docs/hanako.png" width="45%"></img>
